@@ -1,6 +1,5 @@
 # Not-What-It-Seems_ART386
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
@@ -26,3 +25,4 @@
     <script src="sketch.js"></script>
   </body>
 </html>
+
