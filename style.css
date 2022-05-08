@@ -7,8 +7,8 @@ border: 2px solid #876b17;
 }
 
 <p align="center">
-  <img width="300" height="300"      
-      <img src="001.jpg/300/300"> 
+  <img width="200" height="200"      
+      <img src="001.jpg/200/200"> 
       <img src="002.jpg/300/300"> 
       <img src="003.jpg/300/300"> 
       <img src="004.jpg/300/300"> 
@@ -23,14 +23,14 @@ border: 2px solid #876b17;
 img{ 
   border: 20 px solid;
   img-align: center;
-  width: 50%;
+  width: 30%;
 }
 
 .center{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
   border-style: solid;
 }
 }
