@@ -20,10 +20,9 @@ border: 2px solid #876b17;
       <img src="010.jpg"> 
 </p>
 
-img{ 
-  border: 20 px solid;
-  img-align: center;
-  width: 50%;
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
 }
 
 .center{
