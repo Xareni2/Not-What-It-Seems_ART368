@@ -20,6 +20,12 @@ border: 2px solid #876b17;
       <img src="010.jpg"> 
 </p>
 
+p { text-align: center;
+  font-family: 'Prata', serif;
+  margin: 3%;
+  font-size: 17px;
+}
+
 /* img.resize {
     width:540px; 
     height: auto;
