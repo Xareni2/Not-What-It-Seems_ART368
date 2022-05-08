@@ -28,7 +28,7 @@ border: 2px solid #876b17;
 .myImage{
   width:200px;
   height:400px;
-  transform:scale(0.75);
+  transform:scale(0.50);
 }
 
 .justify-content-center{
