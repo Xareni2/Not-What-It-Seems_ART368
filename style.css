@@ -24,6 +24,10 @@ img.resize {
     width:540px; /* you can use % */
     height: auto;
 }
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
+}
 
 .center{
   display: block;
