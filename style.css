@@ -7,9 +7,6 @@ padding: 1%;
 border: 2px solid #876b17;
 }
 
-p {
-  font-size: 24px;
-}
 
 <p align="center">     
       <img src="001.jpg"> 
@@ -22,6 +19,7 @@ p {
       <img src="008.jpg"> 
       <img src="009.jpg"> 
       <img src="010.jpg"> 
+  font-size: 24px;
 </p>
 
 img {
