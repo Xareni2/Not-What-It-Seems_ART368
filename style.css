@@ -1,6 +1,5 @@
 body {background-color: #0b0b45;
 color: white;
-  
 color: rgb (11, 11, 69);
 
 margin: 5%;
@@ -21,12 +20,6 @@ border: 2px solid #876b17;
       <img src="009.jpg"> 
       <img src="010.jpg"> 
 </p>
-
-
-/* img.resize {
-    width:540px; 
-    height: auto;
-} */
 
 img {
   display: block;
